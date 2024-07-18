@@ -1,7 +1,9 @@
 # IaC-Project
 # Project Title
 
-A brief description of your project goes here.
+I am building an Infrastructure as Code App to transfer ###this infrastructure (add diagram) to the Cloud. 
+
+I will use Azure.  
 
 ## Table of Contents
 - [Project Title](#project-title)
@@ -17,7 +19,7 @@ A brief description of your project goes here.
 
 ## About the Project
 
-Explain what your project does, why it's useful, and any other relevant information.
+My project can be used to transfer existing on premises infrastructure to the Cloud.
 
 ## Getting Started
 
